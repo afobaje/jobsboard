@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('./../assets/Cerebri.Sans.Pro-www.Dfonts.org/Cerebri.Sans.Pro/CerebriSansPro-Light.otf') format("opentype");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Cerebri Sans';
+    src: url('./../assets/Cerebri.Sans.Pro-www.Dfonts.org/Cerebri.Sans.Pro/CerebriSansPro-Bold.otf') format("opentype");
+    font-weight: 600;
+}
